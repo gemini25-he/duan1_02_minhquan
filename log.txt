@@ -1,0 +1,140 @@
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => DHSH2AQe88c10425e
+    [requestId] => 1721665729
+    [amount] => 18000
+    [responseTime] => 1721665728469
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXxESFNIMkFRZTg4YzEwNDI1ZQ&s=c731ae534714b472f345d71e27933432fc608705d7bc98e231e2cf55e316bf7a
+    [signature] => 6ef5636f843b144e44a6825aa78b1458b200ea4caef16ff01e7522eff80abef0
+)
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => DHSH2AQe89433a836
+    [requestId] => 1721665859
+    [amount] => 18000
+    [responseTime] => 1721665858775
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXxESFNIMkFRZTg5NDMzYTgzNg&s=c931d99e5ff43801b2ceebd6d6e24520a19a4da8c9a92194b6a7e14af3edc3eb
+    [signature] => 06c970f3799ba1eca6b937ba780a961953e7a80a6df13b4ef33c0356ed7d1a73
+)
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => DHSH2AQe8a4242e80
+    [requestId] => 1721666114
+    [amount] => 54000
+    [responseTime] => 1721666113856
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXxESFNIMkFRZThhNDI0MmU4MA&s=a812485f1c359549f604a3e5ed627525241a8c63efa5b3fb4888837ff13e3552
+    [signature] => 7bf109f4e8c74404df2a277acbc41f6246f1dc59fae8a283f968b7fb4c56e1f2
+)
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => DHSH2AQe8ab5c1de3
+    [requestId] => 1721666229
+    [amount] => 90000
+    [responseTime] => 1721666229196
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXxESFNIMkFRZThhYjVjMWRlMw&s=ceefa56994235ae439919be8976dbbbaeb3b17cd81bd1f1c77116ce132fff436
+    [signature] => 2f5d07a9378eb3cf5d1b6ad842fded032b7e3c1a1d5022783afd8a3971eacb55
+)
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => DHSH2AQe8b1416044
+    [requestId] => DHSH2AQe8b1416044
+    [amount] => 90000
+    [responseTime] => 1721666323490
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXxESFNIMkFRZThiMTQxNjA0NA&s=012d50093fd8c695fbd0668d4b1836c3351f583e86f79043b68e52b26aab8549
+    [signature] => 17bb0e3b41c6aac4892cc23004e95bccd8e586b97e725da22f577520c80214b6
+)
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => DHSH2AQe8c2da4e02
+    [requestId] => 1721666605
+    [amount] => 90000
+    [responseTime] => 1721666605111
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXxESFNIMkFRZThjMmRhNGUwMg&s=5b0e5e910ef6f55513797fef0477482af84dc31984588cf064d8940d88b1b9c7
+    [signature] => 4e8b03dde11edc3180ef6ef77f52fdd9597969f4375fcfeca0822e4a86f1460f
+)
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => DHSH2AQe8dca08a32
+    [requestId] => 1721667018
+    [amount] => 90000
+    [responseTime] => 1721667017460
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXxESFNIMkFRZThkY2EwOGEzMg&s=953d7a275c85368338a5a3c9a4ec7510644adb06df1eaaac727da03e44a0fb57
+    [signature] => 8c30e835e21c97a81f314a66b389f6432184e0be83f620aef7ad8c4484a50352
+)
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => DHSH2AQe8eee0b2de
+    [requestId] => 1721667310
+    [amount] => 90000
+    [responseTime] => 1721667309516
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXxESFNIMkFRZThlZWUwYjJkZQ&s=ae4fd8d50ad755402de023e70c6cd2520209e25ebbb6091b7505567a64031d8b
+    [signature] => 2c4ff50b3369a648580143bca48d10096128010f5d6d848a492e2ebef19a36b7
+)
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => DHSH2AQe8f897b701
+    [requestId] => 1721667465
+    [amount] => 90000
+    [responseTime] => 1721667465075
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXxESFNIMkFRZThmODk3YjcwMQ&s=925c38118f989b7ab2e018aef7dace594efaf96464ffcf2df4c41999e356e3dd
+    [signature] => 973e733076425d8cf121a1a25c5a6e4d9fc419dad878929fb9e41fdaa2522de0
+)
+Array
+(
+    [responseTime] => 1721667988323
+    [message] => Yêu cầu sai định dạng.
+    [resultCode] => 20
+    [subErrors] => Array
+        (
+            [0] => Array
+                (
+                    [field] => signature
+                    [message] => Invalid value. Field must not be blank
+                )
+
+        )
+
+)
+Array
+(
+    [responseTime] => 1721668007361
+    [message] => Yêu cầu sai định dạng.
+    [resultCode] => 20
+    [subErrors] => Array
+        (
+            [0] => Array
+                (
+                    [field] => signature
+                    [message] => Invalid value. Field must not be blank
+                )
+
+        )
+
+)
